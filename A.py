@@ -1,3 +1,2 @@
-#!/usr/bin/python
-list=['abcd',736]
+list = ['Usha',20]
 print(list)
